@@ -2,7 +2,7 @@
 // Created by: Dionatan Paniz Sprenger
 // Curso: Analise Desenvolvimento de Sistemas
 // Matricula: 202212837
-// Github: https://github.com/DionatanSprenger
+// Github: https://github.com/DionatanSprenger/UniLasalle
 
 // Este codigo e uma calculadora
 // Ela pode fazer as seguintes contas
